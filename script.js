@@ -44,7 +44,7 @@ const products=[
 ["The AI Workforce Playbook","Turn AI into a practical work partner through clear roles, repeatable workflows and quality control.","Premeňte AI na praktického pracovného partnera pomocou jasných rolí, postupov a kontroly kvality.","ai","74upI","€14.90","DESIGN · DELEGATE · REVIEW"],
 ["DREAM","A simple Android tool that turns every saving decision into visible progress toward the future you want.","Jednoduchý Android nástroj, ktorý mení každé rozhodnutie ušetriť na viditeľný pokrok k vášmu cieľu.","finance","YJzlr","€1.90","SAVE · SEE · REACH"],
 ["Money Reset","A guided 30-day financial reset system for rebuilding awareness, habits and control over everyday money.","Riadený 30-dňový finančný reštart na obnovu prehľadu, návykov a kontroly nad každodennými peniazmi.","finance","AurOY","€5.00","RESET · TRACK · CONTROL"],
-["30-Day Money Making Planner","A focused monthly planner for turning income ideas into daily actions, progress and review.","Cielený mesačný plánovač na premenu príjmových nápadov na denné kroky, pokrok a kontrolu.","finance","uWY0N","€1.00","PLAN · ACT · EARN"]
+["MadeIQ Digital Planner","A timeless digital planner for turning income ideas into clear actions, visible progress and regular review.","Nadčasový digitálny plánovač na premenu príjmových nápadov na jasné kroky, viditeľný pokrok a pravidelnú kontrolu.","finance","uWY0N","€1.00","PLAN · ACT · EARN"]
 ];
 const palette=["gold","green","violet","coral","blue","amber","rose","teal","forest","orange","indigo","red"];
 const coverMap={
