@@ -1,5 +1,4 @@
 document.documentElement.classList.add('js');
-cument.documentElement.classList.add('js');
 const products=[
 ["MiQd Profit Calculator — FREE DEMO","Try a real free pricing, margin and break-even workflow before buying.","Vyskúšajte zdarma reálny postup pre cenu, maržu a bod zvratu.","finance","1VxyN","FREE","TRY · CALCULATE · DECIDE"],
 ["MiQd Quote Builder","Create clearer professional estimates and PDF quotes.","Vytvárajte profesionálne cenové ponuky a PDF.","business","bRwxD","€19.90","ESTIMATE · QUOTE · PDF"],
